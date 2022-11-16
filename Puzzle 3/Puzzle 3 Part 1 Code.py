@@ -1,7 +1,7 @@
 # Advent of Code 2021 Puzzle 3 Part 1
 
 import fileinput
-puzzleinput = fileinput.input(files='./puzzle2input.txt')
+puzzleinput = fileinput.input(files='./puzzle3input.txt')
 inputlist = []
 
 for line in puzzleinput:
